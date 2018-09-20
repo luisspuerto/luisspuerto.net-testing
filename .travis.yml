@@ -33,7 +33,7 @@ deploy:
   github-token: $GITHUB_TOKEN  # Set in the settings page of your repository, as a secure variable
   keep-history: true
   local_dir: _site
-  # repo: luisspuerto/luisspuerto.net # in case I wanted to build my page in other repo
+  # repo: luispuerto/luispuerto.net # in case I wanted to build my page in other repo
   target-branch: gh-pages
   # on:
   #   branch: master
