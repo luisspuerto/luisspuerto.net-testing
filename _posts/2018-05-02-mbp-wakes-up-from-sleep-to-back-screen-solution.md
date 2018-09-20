@@ -11,7 +11,7 @@ tags:
   - high sierra
   - macOS
 ---
-A couple of weeks ago I [wrote about the problem I have with my old MacBook Pro wakening from sleeping to a black screen](https://luisspuerto.net/blog/2018/04/13/mbp-wakes-up-from-sleep-to-back-screen/). I also pointed out that I was [testing a solution](https://luisspuerto.net/blog/2018/04/13/mbp-wakes-up-from-sleep-to-back-screen/#the-lidwake-on-test) related to the lid. I can tell that since I've testing this solution I haven't suffered any wake up to a black screen, so I guess that the problem is related to the lid, either to the hinge or to the magnet that trigger the wake up and the sleep processes.
+A couple of weeks ago I [wrote about the problem I have with my old MacBook Pro wakening from sleeping to a black screen](/blog/2018/04/13/mbp-wakes-up-from-sleep-to-back-screen/). I also pointed out that I was [testing a solution](/blog/2018/04/13/mbp-wakes-up-from-sleep-to-back-screen/#the-lidwake-on-test) related to the lid. I can tell that since I've testing this solution I haven't suffered any wake up to a black screen, so I guess that the problem is related to the lid, either to the hinge or to the magnet that trigger the wake up and the sleep processes.
 
 I'm doing two things to prevent the black screen behavior. First I'm sleeping the computer using the command line:
 

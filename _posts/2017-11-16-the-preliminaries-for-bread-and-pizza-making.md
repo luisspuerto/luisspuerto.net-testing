@@ -28,7 +28,7 @@ gallery:
     title: "Shaping the final loaf"
 ---
 
-When I started to write this post, it was going to be just my bread recipe, as promised in my [previous post](https://luisspuerto.net/blog/2017/11/12/the-bread-story/). However, as I dug down little my little explaining the basics of bread making, I realize that I'd be better to make a post just explaining the basic of bread and pizza making and then in two other different post explain the recipes. Again, I can't stress more that if you really want to learn how to bake, you should take a look to [Ken's book](https://www.amazon.com/Flour-Water-Salt-Yeast-Fundamentals/dp/160774273X/ref=sr_1_1?ie=UTF8&qid=1510486477&sr=8-1&keywords=flour+water+salt+and+yeast), where you are going to be able to learn the **bread method** as a whole and read the complete recipes.
+When I started to write this post, it was going to be just my bread recipe, as promised in my [previous post](/blog/2017/11/12/the-bread-story/). However, as I dug down little my little explaining the basics of bread making, I realize that I'd be better to make a post just explaining the basic of bread and pizza making and then in two other different post explain the recipes. Again, I can't stress more that if you really want to learn how to bake, you should take a look to [Ken's book](https://www.amazon.com/Flour-Water-Salt-Yeast-Fundamentals/dp/160774273X/ref=sr_1_1?ie=UTF8&qid=1510486477&sr=8-1&keywords=flour+water+salt+and+yeast), where you are going to be able to learn the **bread method** as a whole and read the complete recipes.
 
 ## Ingredients & tools
 
@@ -42,7 +42,7 @@ What are we going to need to bake bread? Ok, let's start with the basic tools an
   * **[Oven mittens](https://en.wikipedia.org/wiki/Oven_glove)** or something to pick up hot things. You aren't probably superman or a replicant, so you are going to get your hands burn without them.
   * A **kitchen scale**. All the measurements are in grams. No volumes. I'll explain [later](#measurements-in-weigh).
   * A **big bowl**. Thing that the dough usually rises like the double or the triple of the original volume. Better transparent, so you can see what is going on inside. I use a [big salad bowl from Ikea](http://www.ikea.com/us/en/catalog/products/20132453/) when I bake a 500 gr loaf, and a really big kitchen pot when I'm making a kilo.
-  * A **container** to put water inside the oven. I use a small pyres tray but something made of metal or ceramic also works. You need this to [create a sauna in the oven](https://luisspuerto.net/blog/2017/11/16/the-preliminaries-for-bread-and-pizza-making/#the-sauna-oven-127467127470nbsp129494127996zwj979465039).
+  * A **container** to put water inside the oven. I use a small pyres tray but something made of metal or ceramic also works. You need this to [create a sauna in the oven](/blog/2017/11/16/the-preliminaries-for-bread-and-pizza-making/#the-sauna-oven-127467127470nbsp129494127996zwj979465039).
   * A **timer** or a clock… you need to measure times quite precisely.
 
 ### Recommended tools
@@ -210,7 +210,7 @@ However, I think that the optimal approach has to be something closer to what yo
 
 {% include figure image_path="https://i.imgur.com/sCUIeG8.jpg" alt="Maillard reaction in my bread" caption="Maillard reaction in my bread" %}
 
-As I mentioned in my [previous post](https://luisspuerto.net/blog/2017/11/12/the-bread-story/), you have to bake your bread until it's dark brown because if you don't, you are doing something **wrong**. You have to get in your bread what is know as [Maillard reaction](https://en.wikipedia.org/wiki/Maillard_reaction). Maillard reaction is a well known reaction that doesn't only take place in your bread, but in almost everything you eat and enjoy, or at least you should, and has been cook. When you create a Maillard reaction what you are doing is adding flavors to your bread due to the degradation of proteins in the outside of the loaf. Besides of adding flavor, you are also adding a different texture to your bread, which your taste is probably going to appreciate.
+As I mentioned in my [previous post](/blog/2017/11/12/the-bread-story/), you have to bake your bread until it's dark brown because if you don't, you are doing something **wrong**. You have to get in your bread what is know as [Maillard reaction](https://en.wikipedia.org/wiki/Maillard_reaction). Maillard reaction is a well known reaction that doesn't only take place in your bread, but in almost everything you eat and enjoy, or at least you should, and has been cook. When you create a Maillard reaction what you are doing is adding flavors to your bread due to the degradation of proteins in the outside of the loaf. Besides of adding flavor, you are also adding a different texture to your bread, which your taste is probably going to appreciate.
 
 I know that there are people out there that _don't like dark brown bread _and they prefer to eat white blunt one. As anything in taste, dark brown bread if something you will end up learning how to enjoy, in the same way you learn to enjoy a good wine or beer, or a well made piece of meat. It's just a matter of education to learn to enjoy and appreciate those new flavors and textures.
 

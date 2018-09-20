@@ -9,7 +9,7 @@ header:
   overlay_image: /assets/images/pages/header-resume.png
   caption: '*Rendering of LiDAR from Norway*'
 ---
-*If you prefer you can download the most recent version of my résumé in pdf in [http://resume.luisspuerto.net](http://resume.luisspuerto.net)*{: style="color: grey"}
+*If you prefer you can download the most recent version of my résumé in pdf in [http://resume.luispuerto.net](http://resume.luispuerto.net)*{: style="color: grey"}
 {: style="color: grey; font-size: 80%"}
 
 ## Profile and Objective
@@ -115,7 +115,7 @@ Thesis / Senior project: ***"El Pajariel"  Stand Management Plan.***
 
 ## PDF Résumé
 
-Additionally you can see and download the [most recent version of my résumé in pdf](http://resume.luisspuerto.net).
+Additionally you can see and download the [most recent version of my résumé in pdf](http://resume.luispuerto.net).
 
 <iframe width="100%" height="650em" 
 src="https://www.dropbox.com/s/tba5d4eeja4vt2i/Luis%20Puerto%20Resume.pdf?raw=1&autoplay=1" frameborder="0" allowfullscreen></iframe>

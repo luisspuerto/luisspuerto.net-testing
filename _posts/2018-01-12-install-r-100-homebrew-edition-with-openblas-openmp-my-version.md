@@ -18,11 +18,11 @@ tags:
   - RStats
 ---
 
-**Update Friday, 10th of May 2018**: If you want to install R with all the capabilities you need to read this [post](https://luisspuerto.net/blog/2018/05/11/installing-r-with-homebrew-with-all-the-capabilities/) too, and perhaps this [one](https://luisspuerto.net/blog/2018/05/11/homebrews-r-doesnt-have-all-the-capabilities/) too.
+**Update Friday, 10th of May 2018**: If you want to install R with all the capabilities you need to read this [post](/blog/2018/05/11/installing-r-with-homebrew-with-all-the-capabilities/) too, and perhaps this [one](/blog/2018/05/11/homebrews-r-doesnt-have-all-the-capabilities/) too.
 
 **Update Tuesday, 27th of March 2018:** I just found out that seems you don't just need to run `sudo R CMD javareconf` to configure Java an R, at least with the versions of Java 9.0.4 and R 3.4.4.
 
-**Update Thursday, 22nd of March 2018:** I have to add `-fopenmp` to both `clang` and `clang++` variables in my `makevars` to be able to build data.table package correctly. This is not exactly what the [Data Table wiki](https://github.com/Rdatatable/data.table/wiki/Installation#openmp-enabled-compiler-for-mac) recommends. I update the [section about the Data Table Package](https://luisspuerto.net/blog/2018/01/12/install-r-100-homebrew-edition-with-openblas-openmp-my-version/#data-table-package) accordingly.
+**Update Thursday, 22nd of March 2018:** I have to add `-fopenmp` to both `clang` and `clang++` variables in my `makevars` to be able to build data.table package correctly. This is not exactly what the [Data Table wiki](https://github.com/Rdatatable/data.table/wiki/Installation#openmp-enabled-compiler-for-mac) recommends. I update the [section about the Data Table Package](/blog/2018/01/12/install-r-100-homebrew-edition-with-openblas-openmp-my-version/#data-table-package) accordingly.
 
 * * *
 
@@ -107,11 +107,11 @@ Take into account that sometimes even the CRAN install binaries pose problems, m
 
 I've used as inspiration for this guide mainly two main sources. On one hand, [Bhaskar Karambelar's installation guide](https://www.karambelkar.info/2017/01/setup-osx-for-r/), and on the other [Mauricio Vargas' one](http://pacha.hk/blog/2017/01/08/install-r-and-python-via-homebrew/). Bhaskar's one was the first I used, more than 6 months ago, while we were in the United Stated, and really worked well in that moment. Problem with it is, it installs a lot or libraries to program in C/C++ what unless you are a C/C++ programmer you aren't going to use, although you never know. At that moment, I installed everything due to lack of knowledge, but probably right now I wouldn't. It's up to you if you want to install those libraries and programing languages. However, I have more than enough space in my hard drive and I don't mind to have then, perhaps they are going to to be useful in the future. Besides, this has been a way to discover then and know more about C/C++ programing. Mauricio's guide goes more to the point and it just helps you to install a really fast and quick version of R that use OpenMP and OpenBlas.
 
-Through this guide I just want to try to show you how I ended with my installation, that is an updated mixture of both guides.  However, take into account that mine guide is going to be a little bit different, even more taking into account that [I use Zsh](https://luisspuerto.net/blog/2018/01/09/iterm2-oh-my-zsh-powerlevel9k-monaco-nerd-complete-font/) as my shell.
+Through this guide I just want to try to show you how I ended with my installation, that is an updated mixture of both guides.  However, take into account that mine guide is going to be a little bit different, even more taking into account that [I use Zsh](/blog/2018/01/09/iterm2-oh-my-zsh-powerlevel9k-monaco-nerd-complete-font/) as my shell.
 
 ### Homebrew
 
-You probably have Homebrew already installed, if you don't, please, [install it](https://luisspuerto.net/blog/2017/11/21/homebrew/). Then, I recommend you to connect to the cask tap if you haven't done it already:
+You probably have Homebrew already installed, if you don't, please, [install it](/blog/2017/11/21/homebrew/). Then, I recommend you to connect to the cask tap if you haven't done it already:
 
 ```shell
 $ brew tap caskroom/cask # Tap to install regular app with user interface (GUI)
@@ -333,7 +333,7 @@ Found second.cpp file in "/Users/brewmaster"
 
 ### GPG & Git
 
-I've already explained how to install [GPG in a previous post](https://luisspuerto.net/blog/2017/11/04/installing-pgp-signing-for-git-on-macos/) to use it with [Git](https://luisspuerto.net/blog/2017/11/05/set-rstudio-with-homebrews-git/). How to install Git was also [explained](https://luisspuerto.net/blog/2017/11/05/set-rstudio-with-homebrews-git/).
+I've already explained how to install [GPG in a previous post](/blog/2017/11/04/installing-pgp-signing-for-git-on-macos/) to use it with [Git](/blog/2017/11/05/set-rstudio-with-homebrews-git/). How to install Git was also [explained](/blog/2017/11/05/set-rstudio-with-homebrews-git/).
 
 ### X-Server
 
@@ -392,7 +392,7 @@ Python 3.6.4
 
 We are going to install some things before we install R itself. [Pandoc](https://en.wikipedia.org/wiki/Pandoc) is really useful when you have R to convert documents in different formats. [Cairo](https://en.wikipedia.org/wiki/Cairo_(graphics)) is a graphical library that can be use for in R and it's need for [QGIS](https://en.wikipedia.org/wiki/QGIS). Libsvg and librsvg are optional
 
-**Important!**: If you want to have R with all the capabilities you need to install Cairo with the instructions in this [post](https://luisspuerto.net/blog/2018/05/11/installing-r-with-homebrew-with-all-the-capabilities/).
+**Important!**: If you want to have R with all the capabilities you need to install Cairo with the instructions in this [post](/blog/2018/05/11/installing-r-with-homebrew-with-all-the-capabilities/).
 
 ```shell
 $ brew install pandoc cairo libsvg librsvg
@@ -860,7 +860,7 @@ V8 version 3.15.11.18 [sample shell]
 
 #### R
 
-Important!: If you want to have R with all the capabilities you have to follow the instructions in this [post](https://luisspuerto.net/blog/2018/05/11/installing-r-with-homebrew-with-all-the-capabilities/), then you can continue.
+Important!: If you want to have R with all the capabilities you have to follow the instructions in this [post](/blog/2018/05/11/installing-r-with-homebrew-with-all-the-capabilities/), then you can continue.
 
 Let's finally install R.
 

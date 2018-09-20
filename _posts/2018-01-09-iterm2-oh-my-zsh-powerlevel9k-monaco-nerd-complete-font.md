@@ -21,7 +21,7 @@ How you can get something similar? Reach this configuration is quite easy. These
 
 I would begin installing iTerm2. iTerm2 is just an app similar to Terminal, but with steroids. It has far more options and even have mouse support.
 
-To install iTerm we are going to use [Homebrew](https://luisspuerto.net/blog/2017/11/21/homebrew/):
+To install iTerm we are going to use [Homebrew](/blog/2017/11/21/homebrew/):
 
 ```shell
 $ brew cask install iterm2
@@ -31,7 +31,7 @@ Now that you have iTerm2 you have to install Oh My Zsh.
 
 ## Install Oh My Zsh
 
-To install Oh My Zsh you need to have installed in your system [Git](https://luisspuerto.net/blog/2017/11/05/set-rstudio-with-homebrews-git/). Usually that is not a problem because Mac comes with its own Git, but remember that [you can update to the last version easily using Homebrew](https://luisspuerto.net/blog/2017/11/05/set-rstudio-with-homebrews-git/).
+To install Oh My Zsh you need to have installed in your system [Git](/blog/2017/11/05/set-rstudio-with-homebrews-git/). Usually that is not a problem because Mac comes with its own Git, but remember that [you can update to the last version easily using Homebrew](/blog/2017/11/05/set-rstudio-with-homebrews-git/).
 
 However, you can't install Oh My Zsh itself using Homebrew, but you can use [cURL](https://en.wikipedia.org/wiki/CURL) or [Wget](https://en.wikipedia.org/wiki/Wget), which probably you have already installed in your system. If you don't have any of those, you can install them through Homebrew. To install Oh My Zsh you can run the following commands:
 
