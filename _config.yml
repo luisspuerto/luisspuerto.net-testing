@@ -20,9 +20,9 @@ title                    : "Luis Puerto"
 title_separator          : "|"
 name                     : "Luis Puerto"
 description              : "Forestry | Research | GIS | Remote Sensing"
-url                      : "https://luisspuerto.net"
+url                      : "https://luispuerto.net"
 baseurl                  : # "/blog"
-repository               : "luisspuerto/luisspuerto.net"
+repository               : "luispuerto/luispuerto.net"
 teaser                   : "/assets/images/pages/teaser-default.jpg"
 breadcrumbs              : # false # true, false (default)
 words_per_minute         : 200
@@ -94,8 +94,8 @@ social:
   links: # An array of links to social media profiles
     - https://twitter.com/lpuerto
     - https://www.linkedin.com/in/lpuerto
-    - https://github.com/luisspuerto
-    - https://www.flickr.com/photos/luisspuerto
+    - https://github.com/luispuerto
+    - https://www.flickr.com/photos/lpuerto
 
 # Analytics
 analytics:
@@ -112,11 +112,11 @@ author:
   bio              : "Born in Ponferrada, Spain. A Forest Engineer interested
                       in Science and Technology. Fascinated about almost everything"
   location         : "🇪🇺🇪🇸🇸🇪🇫🇮🇺🇸"
-  email            : "luis@luisspuerto.net"
+  email            : "luis@luispuerto.net"
   links:
     # - label: "Email"
     #   icon: "fas fa-fw fa-envelope-square"
-    #   url: mailto:luis@luisspuerto.net
+    #   url: mailto:luis@luispuerto.net
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/lpuerto"
@@ -125,16 +125,16 @@ author:
       url: "https://www.linkedin.com/in/lpuerto"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/luisspuerto"
+      url: "https://github.com/luispuerto"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url: https://gitlab.com/luisspuerto
+      # url: https://gitlab.com/luispuerto
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       url: "https://instagram.com/lpuerto"
     - label: "Flickr"
       icon: "fab fa-fw fa-flickr"
-      url: "https://www.flickr.com/luisspuerto"
+      url: "https://www.flickr.com/lpuerto"
 
 # Site Footer
 footer:
@@ -147,10 +147,10 @@ footer:
       url: "https://www.linkedin.com/in/lpuerto"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/luisspuerto"
+      url: "https://github.com/luispuerto"
     - label: "GitLab"
       icon: "fab fa-fw fa-gitlab"
-      # url: https://gitlab.com/luisspuerto
+      # url: https://gitlab.com/luispuerto
     - label: "Bitbucket"
       icon: "fab fa-fw fa-bitbucket"
       # url:
