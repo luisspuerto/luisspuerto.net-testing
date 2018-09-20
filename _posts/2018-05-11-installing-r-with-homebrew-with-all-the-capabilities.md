@@ -20,7 +20,7 @@ As I explained in my [previous post](/blog/2018/05/11/homebrews-r-doesnt-have-al
 $ brew cask install r-app
 ```
 
-However, if you install that way you can't take advantage of [OpenBlas and OpenMP](/blog/2018/01/12/install-r-100-homebrew-edition-with-openblas-openmp-my-version/#openblas-openmp) which really enhance the speed of R processing. Well, you can take advantage of OpenMP with CRAN install if you use the [coatless professor method](/blog/2018/01/12/install-r-100-homebrew-edition-with-openblas-openmp-my-version/#openblas-openmp).
+However, if you install that way you can't take advantage of [OpenBlas and OpenMP](/blog/2018/01/12/install-r-100-homebrew-edition-with-openblas-openmp-my-version/#openblas--openmp) which really enhance the speed of R processing. Well, you can take advantage of OpenMP with CRAN install if you use the [coatless professor method](/blog/2018/01/12/install-r-100-homebrew-edition-with-openblas-openmp-my-version/#openblas--openmp).
 
 ## Getting all the capabilities
 

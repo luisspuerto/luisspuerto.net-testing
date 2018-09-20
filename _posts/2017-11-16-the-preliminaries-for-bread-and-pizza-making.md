@@ -42,7 +42,7 @@ What are we going to need to bake bread? Ok, let's start with the basic tools an
   * **[Oven mittens](https://en.wikipedia.org/wiki/Oven_glove)** or something to pick up hot things. You aren't probably superman or a replicant, so you are going to get your hands burn without them.
   * A **kitchen scale**. All the measurements are in grams. No volumes. I'll explain [later](#measurements-in-weigh).
   * A **big bowl**. Thing that the dough usually rises like the double or the triple of the original volume. Better transparent, so you can see what is going on inside. I use a [big salad bowl from Ikea](http://www.ikea.com/us/en/catalog/products/20132453/) when I bake a 500 gr loaf, and a really big kitchen pot when I'm making a kilo.
-  * A **container** to put water inside the oven. I use a small pyres tray but something made of metal or ceramic also works. You need this to [create a sauna in the oven](/blog/2017/11/16/the-preliminaries-for-bread-and-pizza-making/#the-sauna-oven-127467127470nbsp129494127996zwj979465039).
+  * A **container** to put water inside the oven. I use a small pyres tray but something made of metal or ceramic also works. You need this to [create a sauna in the oven](/blog/2017/11/16/the-preliminaries-for-bread-and-pizza-making/#the-sauna-oven-finland).
   * A **timer** or a clock… you need to measure times quite precisely.
 
 ### Recommended tools
@@ -196,7 +196,7 @@ However, I usually don't score then and I try to leave the seam —the one I mad
 
 It's up to you so score or not your bread before you bake it.
 
-### The _sauna_ oven :finland: 
+### The _sauna_ oven :finland:
 
 {% include figure image_path="https://i.imgur.com/yWZ70vu.jpg" alt="Water in a container inside the oven." caption="Water in a container inside the oven." %}
 
