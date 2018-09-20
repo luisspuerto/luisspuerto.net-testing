@@ -13,7 +13,7 @@ Right now I'm living in the incredible <a style="color: #000000;" href="https://
 You can contact me on my:
 
   * :email: email: ***[luis@luispuerto.net](mailto:luis@luispuerto.net)***   
-      **GPG fingerprint:** *C50C 58C6 A45C 7F10 3321  19C3 1EC6 E785 5689 4CF2*
+      **GPG fingerprint:** *9C00 2FD1 29AA B3DA AF48  86C1 1BAC FFF4 421C 6F24*
   * :iphone: mobile
       * :finland: ***+358 (0) 40 82 69 911*** 
       * :us: ***+1 (347) 464-8623***
