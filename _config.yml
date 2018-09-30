@@ -54,6 +54,7 @@ staticman:
       type               : # "date"
       options:
         format           : # "iso8601" (default), "timestamp-seconds", "timestamp-milliseconds"
+  endpoint               : # URL of your own deployment with trailing slash, will fallback to the public instance
 reCaptcha:
   siteKey                : "6Le3UGYUAAAAAGCV3MSUS-8eLKv8z1_QoRKY7nFG"
   secret                 : "kmvLr5CVHi1aUyL3yL2SYTe1qIig7fbb0mgBAw+Et1J2OgJ+L8amh1FXbogoY5KnFS1UFUh4VyGyCyOBsjpVOqcHN6BhtC6kORA5VzUscGyHCUlql636m2C5qaOkGPzpaxAuX4XPAH3LLk1eqTWZF6d3Ieeappzz2m6yDRGl0eY="
