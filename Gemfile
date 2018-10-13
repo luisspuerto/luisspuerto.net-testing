@@ -29,5 +29,6 @@ group :jekyll_plugins do
   gem "jekyll-algolia"
   gem "html-proofer"
   gem "jekyll-archives"
+  gem 'jekyll-include-cache'
   # gem "rake"
 end
